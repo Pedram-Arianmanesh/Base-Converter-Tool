@@ -14,7 +14,7 @@ int main()
     x=x/b;
     i++;
    }
-  long int Nmab[i];
+  int Nmab[i];
    x=0;
    while(a>0){
    Nmab[x]=a%b;
